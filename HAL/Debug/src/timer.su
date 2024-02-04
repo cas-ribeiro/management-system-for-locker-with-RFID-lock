@@ -1,0 +1,11 @@
+C:\Users\carlo\Documents\ISEL\Semestre 5\SE\SE\CMSIS_CORE_LPC17XX\inc/core_cm3.h:1323:22:NVIC_EnableIRQ	16	static
+C:\Users\carlo\Documents\ISEL\Semestre 5\SE\SE\CMSIS_CORE_LPC17XX\inc/core_cm3.h:1335:22:NVIC_DisableIRQ	16	static
+../src/timer.c:28:6:RIT_ClockEnable	16	static
+../src/timer.c:32:10:RITPWR_GetPClk	16	static
+../src/timer.c:48:6:RIT_SetHandler	24	static
+../src/timer.c:61:6:RIT_IRQHandler	8	static
+../src/timer.c:72:6:RIT_Start	8	static
+../src/timer.c:82:6:RIT_Stop	8	static
+../src/timer.c:88:6:RIT_Restart	4	static
+../src/timer.c:95:6:TIMER_StopwatchInit	4	static
+../src/timer.c:118:6:TIMER_Stopwatch	16	static

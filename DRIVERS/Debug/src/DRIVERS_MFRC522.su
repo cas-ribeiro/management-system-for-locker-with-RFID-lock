@@ -1,0 +1,5 @@
+../src/DRIVERS_MFRC522.c:12:6:MFRC522_PreInit	8	static
+../src/DRIVERS_MFRC522.c:23:6:MFRC522_Reset	16	static
+../src/DRIVERS_MFRC522.c:35:6:MFRC522_Select	16	static
+../src/DRIVERS_MFRC522.c:46:9:MFRC522_Transfer	24	static
+../src/DRIVERS_MFRC522.c:53:6:MFRC522_WaitMs	16	static

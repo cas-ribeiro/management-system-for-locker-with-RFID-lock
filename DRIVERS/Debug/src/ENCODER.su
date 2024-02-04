@@ -1,0 +1,6 @@
+../src/ENCODER.c:26:13:RotaryEncoderRITHandler	8	static
+../src/ENCODER.c:30:6:ENCODER_Handler	24	static
+../src/ENCODER.c:73:6:ENCODER_Init	16	static
+../src/ENCODER.c:87:5:ENCODER_GetValue	16	static
+../src/ENCODER.c:112:25:ENCODER_GetButton	16	static
+../src/ENCODER.c:151:5:ReadValues	16	static

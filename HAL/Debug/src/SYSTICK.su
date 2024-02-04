@@ -1,0 +1,5 @@
+C:\Users\carlo\Documents\ISEL\Semestre 5\SE\SE\CMSIS_CORE_LPC17XX\inc/core_cm3.h:1405:22:NVIC_SetPriority	16	static
+C:\Users\carlo\Documents\ISEL\Semestre 5\SE\SE\CMSIS_CORE_LPC17XX\inc/core_cm3.h:1532:26:SysTick_Config	16	static
+../src/SYSTICK.c:17:6:SysTick_Handler	4	static
+../src/SYSTICK.c:22:5:SYSTICK_Init	16	static
+../src/SYSTICK.c:29:10:SYSTICK_GetValue	4	static

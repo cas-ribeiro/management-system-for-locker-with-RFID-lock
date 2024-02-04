@@ -1,0 +1,5 @@
+../src/DRIVERS_FLASH.c:15:14:DRIVERS_FLASH_BlankCheck	16	static
+../src/DRIVERS_FLASH.c:21:14:DRIVERS_FLASH_PrepareSector	16	static
+../src/DRIVERS_FLASH.c:26:14:DRIVERS_FLASH_EraseSector	16	static
+../src/DRIVERS_FLASH.c:31:14:DRIVERS_FLASH_WriteData	24	static
+../src/DRIVERS_FLASH.c:36:14:DRIVERS_FLASH_VerifyData	24	static

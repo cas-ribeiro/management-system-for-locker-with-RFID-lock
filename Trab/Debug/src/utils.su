@@ -1,0 +1,5 @@
+../src/utils.c:44:5:numDays	24	static
+../src/utils.c:58:6:textCalendar	64	static
+../src/utils.c:78:6:textClock	16	static
+../src/utils.c:96:6:setDate	32	static
+../src/utils.c:238:6:setClock	24	static

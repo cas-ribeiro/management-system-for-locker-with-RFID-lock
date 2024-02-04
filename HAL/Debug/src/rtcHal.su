@@ -1,0 +1,5 @@
+../src/rtcHal.c:15:6:RTC_Start	4	static
+../src/rtcHal.c:19:6:RTC_Stop	4	static
+../src/rtcHal.c:23:6:RTC_HalInit	4	static
+../src/rtcHal.c:31:6:RTC_HalGetValue	16	static
+../src/rtcHal.c:42:6:RTC_HalSetValue	16	static

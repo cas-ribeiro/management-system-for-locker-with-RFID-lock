@@ -1,0 +1,10 @@
+../src/LCD.c:17:13:LCDText_WriteNibble	16	static
+../src/LCD.c:55:13:LCDText_WriteByte	16	static
+../src/LCD.c:62:13:LCDText_WriteData	16	static
+../src/LCD.c:67:14:LCDText_WriteCMD	16	static
+../src/LCD.c:73:6:LCDText_Init	8	static
+../src/LCD.c:123:6:LCDText_WriteChar	24	static
+../src/LCD.c:129:6:LCDText_WriteString	24	static
+../src/LCD.c:142:6:LCDText_SetCursor	24	static
+../src/LCD.c:153:6:LCDText_Clear	8	static
+../src/LCD.c:159:6:LCDText_Printf	48	static

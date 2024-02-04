@@ -1,0 +1,2 @@
+../src/timer.c:26:6:TIMER_StopwatchInit	0	static
+../src/timer.c:49:6:TIMER_Stopwatch	0	static

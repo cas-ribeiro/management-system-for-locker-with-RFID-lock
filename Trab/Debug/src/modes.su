@@ -1,0 +1,12 @@
+../src/modes.c:56:6:modoNormal	48	static
+../src/modes.c:248:6:modoManutencao	648	static
+../src/modes.c:490:5:isAuthorized	40	static
+../src/modes.c:510:5:isEqual	32	static
+../src/modes.c:524:6:addLogEntry	88	static
+../src/modes.c:580:6:displayLog	24	static
+../src/modes.c:594:6:removeCard	24	static
+../src/modes.c:613:6:addCard	32	static
+../src/modes.c:646:6:saveStartup	16	static
+../src/modes.c:656:6:saveStartupStateToFlash	24	static
+../src/modes.c:673:6:loadStartup	16	static
+../src/modes.c:690:1:loadStartupStateFromFlash	8	static

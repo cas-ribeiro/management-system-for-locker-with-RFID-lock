@@ -1,0 +1,8 @@
+../src/flash.c:19:6:call_iap	8	static
+../src/flash.c:23:14:FLASH_BlankCheck	16	static
+../src/flash.c:42:14:FLASH_PrepareSector	16	static
+../src/flash.c:60:14:FLASH_EraseSector	16	static
+../src/flash.c:78:14:FLASH_WriteData	24	static
+../src/flash.c:98:14:FLASH_VerifyData	24	static
+../src/flash.c:118:14:calculate_padded_size	16	static
+../src/flash.c:131:6:FLASH_padder	56	dynamic

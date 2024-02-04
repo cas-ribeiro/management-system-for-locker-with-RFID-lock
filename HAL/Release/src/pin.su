@@ -1,0 +1,4 @@
+../src/pin.c:16:6:PIN_Check	0	static
+../src/pin.c:30:6:PIN_Dir	0	static
+../src/pin.c:37:6:PIN_Set	0	static
+../src/pin.c:43:6:PIN_Clear	0	static
